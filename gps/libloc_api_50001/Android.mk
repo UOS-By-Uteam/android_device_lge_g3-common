@@ -73,9 +73,7 @@ LOCAL_SHARED_LIBRARIES := \
     libloc_eng \
     libloc_core \
     libgps.utils \
-    libdl \
-    libmdmdetect \
-    libperipheral_client
+    libdl
 
 LOCAL_SRC_FILES += \
     loc.cpp \
